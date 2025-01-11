@@ -1,4 +1,4 @@
-Dashboard de GPUs 🎮💻
+## Dashboard de GPUs 🎮💻
 
 Este projeto apresenta um dashboard interativo desenvolvido em Python, utilizando Streamlit e Pandas, com o objetivo de explorar e visualizar informações sobre GPUs. A aplicação permite visualizar:
 
